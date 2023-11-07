@@ -21,6 +21,7 @@ body{
     text-decoration: none;
     color: rgb(243, 23, 247);
     font-size: 20px;
+    font-family: 'Dancing Script', cursive;
 }
 .nav a:hover{
     text-decoration:underline;
