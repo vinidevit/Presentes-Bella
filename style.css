@@ -55,9 +55,8 @@ body{
     margin-left: auto;
     padding-top: 50px;
     background-image: url(img/bellinha-desf.jpg);
-    background-repeat: no-repeat;
     background-size: cover;
-    background-position: right;
+    background-position: center;
     border-radius: 20px;
     margin-bottom: 50px;
     padding-bottom: 40px;
