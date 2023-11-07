@@ -14,7 +14,7 @@ body{
     padding: 15px;
     border-radius: 25px;
     border-bottom: solid 1px rgb(243, 23, 247);
-    background-color: black;
+    background-color: #000000;
 }
 .nav a{
     padding: 10px;
